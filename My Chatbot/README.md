@@ -8,5 +8,9 @@ If you want to see an advanced Chatbot made by me hop [here](https://github.com/
 </br>
 
 - ## Preview of the chatbot
-<img src="https://github.com/hrugved06/ML-Projects/blob/master/My%20Chatbot/demoPics/Convers.jpeg" width=400></br>
+<img src="https://github.com/hrugved06/ML-Projects/blob/master/My%20Chatbot/demoPics/Convers.jpeg" width=400>
+
+</br>
+</br>
+
 <img src="https://github.com/hrugved06/ML-Projects/blob/master/My%20Chatbot/demoPics/bye.png" width=400><br>
