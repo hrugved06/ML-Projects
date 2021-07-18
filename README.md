@@ -2,7 +2,15 @@
 
 </br>
 
-All the codes in this repository are my practice codes</br>
+All the codes in this repository are my practice codes :-D</br>
+</br>
+These repository include:- </br>
+<ol>
+ <li>Spam SMS detection Model </li>
+ <li> </li>
+ <li> </li>
+ <li> </li>
+</ol>
 Implemented them while learning and exploring new things </br>
 Explore and enjoy!
  </br>:-)
