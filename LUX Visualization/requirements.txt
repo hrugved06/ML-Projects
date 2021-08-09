@@ -1,0 +1,8 @@
+#1
+! pip install lux-api 
+! jupyter nbextension install --py luxwidget 
+! jupyter nbextension enable --py luxwidget
+
+#2
+import lux 
+import pandas as pd 
