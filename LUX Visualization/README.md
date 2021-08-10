@@ -5,6 +5,8 @@ Lux is a Python library that makes data science easier by automating aspects of 
 - Lux is designed to be tightly integrated with Pandas and can be used as-is, without modifying your existing Pandas code. To enable Lux, simply add import lux along with your Pandas import statement.
 - By clicking on the Toggle button, you can now explore the data visually through Lux. You should see several categories of visualizations recommended to you by browsing through the different tabs.
 
+`Some Visuals Might not be visible in .ipynb notebook so refer this README.md file :-)`
+
 ## Example: </br>
 
 - Toggling between Pandas dataframe and Lux widget </br>
